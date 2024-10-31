@@ -1,5 +1,3 @@
-# Project Title: Scrabble
-
 ## Overview
 This Repository is some projects I made to practice my java.
 
